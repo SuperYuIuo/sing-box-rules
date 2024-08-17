@@ -7,6 +7,7 @@
         "blizzard.gcdn.cloudn.co.kr",
         "blzddist1-a.akamaihd.net",
         "blzddistkr1-a.akamaihd.net",
+        "cdn.ubi.com",
         "client.hikarifield.co.jp",
         "content.cdp.bethesda.net",
         "download.cdp.bethesda.net",
@@ -16,6 +17,7 @@
         "download2.epicgames.com",
         "download3.epicgames.com",
         "download4.epicgames.com",
+        "dyn.riotcdn.net",
         "edge.steam-dns.top.comcast.net",
         "epicgames-download1.akamaized.net",
         "eu.cdn.blizzard.com",
@@ -30,6 +32,7 @@
         "steam.eca.qtlglb.com",
         "steam.naeu.qtlglb.com",
         "steam.ru.qtlglb.com",
+        "steamcontent.com",
         "steampipe-kr.akamaized.net",
         "steampipe-partner.akamaized.net",
         "steampipe.akamaized.net",
@@ -42,10 +45,16 @@
     },
     {
       "domain_suffix": [
-        "cdn.ubi.com",
-        "dyn.riotcdn.net",
-        "steamcontent.com"
+        ".cdn.ubi.com",
+        ".dyn.riotcdn.net",
+        ".steamcontent.com"
       ]
+    },
+    {
+      "ip_cidr": []
+    },
+    {
+      "domain_keyword": []
     }
   ],
   "version": 1

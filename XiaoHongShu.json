@@ -1,15 +1,26 @@
 {
   "rules": [
     {
-      "domain": []
-    },
-    {
-      "domain_suffix": [
+      "domain": [
         "fengkongcloud.com",
         "xhscdn.com",
         "xhscdn.net",
         "xiaohongshu.com"
       ]
+    },
+    {
+      "domain_suffix": [
+        ".fengkongcloud.com",
+        ".xhscdn.com",
+        ".xhscdn.net",
+        ".xiaohongshu.com"
+      ]
+    },
+    {
+      "ip_cidr": []
+    },
+    {
+      "domain_keyword": []
     }
   ],
   "version": 1

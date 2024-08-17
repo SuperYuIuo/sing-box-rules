@@ -1,13 +1,25 @@
 {
   "rules": [
     {
-      "domain": []
-    },
-    {
-      "domain_suffix": [
+      "domain": [
         "cdninstagram.com",
         "instagr.am",
         "instagram.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".cdninstagram.com",
+        ".instagr.am",
+        ".instagram.com"
+      ]
+    },
+    {
+      "ip_cidr": []
+    },
+    {
+      "domain_keyword": [
+        "instagram"
       ]
     }
   ],

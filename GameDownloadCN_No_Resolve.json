@@ -1,4 +1,5 @@
-"rules": [
+{
+  "rules": [
     {
       "domain": [
         "assets1.xboxlive.cn",
@@ -9,6 +10,7 @@
         "dl.delivery.mp.microsoft.com",
         "dl.steam.clngaa.com",
         "epicgames-download1-1251447533.file.myqcloud.com",
+        "pdl.wow.battlenet.com.cn",
         "st.dl.bscstorage.net",
         "st.dl.eccdnx.com",
         "steampipe.steamcontent.tnkjmec.com",
@@ -20,8 +22,14 @@
     },
     {
       "domain_suffix": [
-        "pdl.wow.battlenet.com.cn"
+        ".pdl.wow.battlenet.com.cn"
       ]
+    },
+    {
+      "ip_cidr": []
+    },
+    {
+      "domain_keyword": []
     }
   ],
   "version": 1

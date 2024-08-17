@@ -1,10 +1,7 @@
 {
   "rules": [
     {
-      "domain": []
-    },
-    {
-      "domain_suffix": [
+      "domain": [
         "1drv.com",
         "livefilestore.com",
         "oneclient.sfx.ms",
@@ -17,6 +14,32 @@
         "spoprod-a.akamaihd.net",
         "storage.live.com",
         "storage.msn.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".1drv.com",
+        ".livefilestore.com",
+        ".oneclient.sfx.ms",
+        ".onedrive.com",
+        ".onedrive.live.com",
+        ".photos.live.com",
+        ".sharepoint.com",
+        ".sharepointonline.com",
+        ".skydrive.wns.windows.com",
+        ".spoprod-a.akamaihd.net",
+        ".storage.live.com",
+        ".storage.msn.com"
+      ]
+    },
+    {
+      "ip_cidr": []
+    },
+    {
+      "domain_keyword": [
+        "1drv",
+        "onedrive",
+        "skydrive"
       ]
     }
   ],

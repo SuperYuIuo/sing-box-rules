@@ -31,14 +31,21 @@
         "tb6.bdstatic.com",
         "tbmsg.baidu.com",
         "tieba-ares.cdn.bcebos.com",
+        "tieba.baidu.com",
         "tiebac.baidu.com",
         "tiebapic.baidu.com"
       ]
     },
     {
       "domain_suffix": [
-        "tieba.baidu.com"
+        ".tieba.baidu.com"
       ]
+    },
+    {
+      "ip_cidr": []
+    },
+    {
+      "domain_keyword": []
     }
   ],
   "version": 1
