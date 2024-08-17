@@ -1,0 +1,2 @@
+rules: [{'domain': []}, {'domain_suffix': ['facebook.com', 'fb.com', 'fb.me', 'fbcdn.com', 'fbcdn.net']}]
+version: 1
