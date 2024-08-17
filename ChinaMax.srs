@@ -1,2 +1,2 @@
-rules: [{'domain': []}, {'domain_suffix': []}]
+rules: [{'domain': []}, {'domain_suffix': []}, {'ip_cidr': []}, {'domain_keyword': ['.tmall.com', 'alicdn', 'alipay', 'aliyun', 'baidu', 'beplay', 'bilibili', 'hnagroup', 'officecdn', 'qiyi', 'stripe', 'taobao', 'weibo']}]
 version: 1

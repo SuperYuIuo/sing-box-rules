@@ -1,2 +1,2 @@
-rules: [{'domain': []}, {'domain_suffix': ['weibo.cn', 'weibo.com', 'weibocdn.com']}]
+rules: [{'domain': ['weibo.cn', 'weibo.com', 'weibocdn.com']}, {'domain_suffix': ['.weibo.cn', '.weibo.com', '.weibocdn.com']}, {'ip_cidr': []}, {'domain_keyword': ['weibo']}]
 version: 1

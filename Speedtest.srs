@@ -1,2 +1,2 @@
-rules: [{'domain': []}, {'domain_suffix': ['fast.com', 'ooklaserver.net', 'speed.cloudflare.com', 'speed.dler.io']}]
+rules: [{'domain': ['fast.com', 'ooklaserver.net', 'speed.cloudflare.com', 'speed.dler.io']}, {'domain_suffix': ['.fast.com', '.ooklaserver.net', '.speed.cloudflare.com', '.speed.dler.io']}, {'ip_cidr': []}, {'domain_keyword': ['speedtest']}]
 version: 1

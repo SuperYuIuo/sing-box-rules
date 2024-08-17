@@ -1,2 +1,2 @@
-rules: [{'domain': []}, {'domain_suffix': ['huya.com', 'huyagame.cn', 'peiwanlu.com', 'snapplay.com']}]
+rules: [{'domain': ['huya.com', 'huyagame.cn', 'peiwanlu.com', 'snapplay.com']}, {'domain_suffix': ['.huya.com', '.huyagame.cn', '.peiwanlu.com', '.snapplay.com']}, {'ip_cidr': []}, {'domain_keyword': []}]
 version: 1
